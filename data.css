@@ -1,0 +1,62 @@
+*{padding:0;margin:0;}
+.content{
+	background: cadetblue;
+	width: 400px;
+	margin: auto;
+	padding: 20px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	box-shadow: 0px 0px 14px 0px;
+	border-radius: 3px;
+	animation-name:;
+	animation-duration:1s;
+	transition:2s;
+}
+@keyframes zoominbox{
+	from{transfrom:scale(0.1)}
+	to{ transform:scale(1)}
+}
+.main a{
+	text-decoration: none;
+    color: black;
+    font-family: arial;
+	
+}
+	
+
+.image{    width: 200px;
+    margin: auto;}
+.input{width: 100%;
+    height: 40px;
+    border-radius: 3px;
+	border: none;
+	margin-top:10px;
+}
+.button{
+	width: 110px;
+    height: 40px;
+    background: #007eff;
+    color: wheat;
+    border: none;
+    font-size: 22px;
+    padding: 10px;
+}
+.button_name{
+	    width: 80px;
+    margin: auto;
+    margin-top: 22px;
+}
+.gender{
+	
+}
+.gender_radio{
+	    margin-top: 20px;
+    font-size: 20px;
+}
+.select_Menu{
+	    width: 100%;
+    border-radius: 4px;
+    margin-top: 15px;
+    height: 40px;
+    font-size: 17px;
+}
